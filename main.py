@@ -5,11 +5,17 @@
 # -*- coding: utf-8 -*-
 
 import sqlite3
+import wil.py
+import widb.py
 
+# Ouverture du fichier RH
+fichier = open("export.csv", "r")
+next(fichier)
 
 # Parcours du fichier ( en ignorant la premiere ligne )
 
+for ligne in ficher
+    ent = wil(ligne)
 # Ecrire dans la db
+    widb(ent)
 
-# Ecrire ligne par ligne
-    # 
