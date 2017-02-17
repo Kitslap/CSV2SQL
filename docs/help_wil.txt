@@ -1,0 +1,3 @@
+# Parcourir chaque champ d'une ligne donnée.
+Doit faire la liste
+ent=[Nom,NomJ,Prenom,Ddn,Fonction,Dpt,Mail,Tel,Mobile]

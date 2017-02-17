@@ -1,2 +1,0 @@
-L=[Nom,NomJ,Prenom,Ddn,Fonction,Dpt,Mail,Tel,Mobile]
-# Parcourir chaque champ d'une ligne donnée.
