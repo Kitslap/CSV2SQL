@@ -5,6 +5,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-def wil (liste)
+import csv
+
+def wil (ligne)
     for i in range
+    
+    return ent
         
