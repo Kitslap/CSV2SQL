@@ -5,8 +5,8 @@
 # -*- coding: utf-8 -*-
 
 import sqlite3
-import wil.py
-import widb.py
+import modules/wil.py
+import modules/widb.py
 
 # Ouverture du fichier RH
 fichier = open("export.csv", "r")
