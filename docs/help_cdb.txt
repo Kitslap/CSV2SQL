@@ -1,1 +1,0 @@
-# Creation de la DB, doit contenir les bons champs
