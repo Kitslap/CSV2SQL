@@ -42,3 +42,4 @@ rendu fichiers Python dans un dossier (nommé suivant « votre_nom ») dans un a
 | [ ] écriture de tests										|	2 (bonus)	|
 
 BURBAUD Pierre GNERUCCI Maxime - LP ASSR - IUT SENART - 2017 - Projet Python CSV2SQL
+SPECIAL THANKS : FORTUNAT Jacob 
