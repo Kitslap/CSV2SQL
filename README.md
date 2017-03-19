@@ -40,3 +40,5 @@ rendu fichiers Python dans un dossier (nommé suivant « votre_nom ») dans un a
 | [ ] respect de la PEP257 (docstrings)						|		1		|
 | [ ] utilisation d'un ORM pour la partie SQL				|		2		|
 | [ ] écriture de tests										|	2 (bonus)	|
+
+BURBAUD Pierre GNERUCCI Maxime - LP ASSR - IUT SENART - 2017 - Projet Python CSV2SQL
